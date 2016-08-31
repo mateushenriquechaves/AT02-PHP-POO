@@ -34,7 +34,7 @@
 </head>
 <body>
 <div class="link">
-    <a href="parte1.php">Ver modelo original</a> <br/> <br/> <a href="inserirLivro.php"> Cadastrar Livros </a> <br><br> <a href="Models/instalar.php"> Instalar Tabela (Precisa de no mínimo um  banco " biblioteca " criado)</a>
+    <a href="parte1.php">Ver modelo original</a> <br><br> <a href="Models/instalar.php"> Instalar Tabela (Precisa de no mínimo um  banco " biblioteca " criado)</a>
 </div>
 <?php
 require 'Models/requestLivrosIncremento.php';
